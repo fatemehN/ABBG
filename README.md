@@ -1,6 +1,10 @@
 # ABBG
 [NeurIPS 2024 in AdvML Workshop] Adversarial Bounding Boxes Generation (ABBG) Attack against Visual Object Trackers
 
+[OpenReview] coming soon!
+
+[ArXiv](https://arxiv.org/abs/2411.17468)
+
 ### ABBG Attack for ROMTrack and TransTM trackers
 
 ## Object Bounding Box Evaluation (GOT10k dataset)
