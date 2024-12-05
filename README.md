@@ -7,17 +7,17 @@ NeurIPS 2024 in AdvML Workshop
 
 
 ## Object Bounding Box Evaluation (GOT10k dataset)
-## Step1: Download the trackers packages
+## Step 1: Download the trackers packages
 Please download the trackers from the VOT challenge (VOT2022) website and GitHub, as follows:
 
 1- ROMTrack: https://github.com/dawnyc/ROMTrack/archive/refs/heads/master.zip 
 
 2- TransTM: https://data.votchallenge.net/vot2022/trackers/TransT_M-code-2022-05-03T05_05_59.924051.zip 
 
-## Step2: Create the environment
+## Step 2: Create the environment
 For each tracker follow the instructions to build the suitable environment as stated in their README.md file. 
 
-## Step3: Download the networks 
+## Step 3: Download the networks 
 For ABBG experiments, we used the following networks:
 
 + ROMTrack: 
