@@ -5,7 +5,6 @@ NeurIPS 2024 in AdvML Workshop
 
 [ArXiv](https://arxiv.org/abs/2411.17468)
 
-### ABBG Attack for ROMTrack and TransTM trackers
 
 ## Object Bounding Box Evaluation (GOT10k dataset)
 ## Step1: Download the trackers packages
