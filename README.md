@@ -47,7 +47,7 @@ Follow the instructions of each tracker to correct the paths and run the setup f
 
 3- Set the paths for the dataset (dataset_root) in line 46 and model (net_path) in line 53 of the test_ABBG.py file.
 
-## Step 6.a: Run the ROMTrack tracker attacked by ABBG for GOT10k evaluation
+## Step 6.a: Run the ROMTrack tracker attacked by ABBG 
 
 1- Download the GOT10k dataset (http://got-10k.aitestunion.com/downloads) and set the dataset paths in ROMTrack/lib/test/evaluation/local.py.
 
@@ -59,7 +59,7 @@ Follow the instructions of each tracker to correct the paths and run the setup f
 python tracking/test_ABBG.py ROMTrack got_stage2 --dataset got10k_val --params__model ROMTrack_epoch0050.pth.tar
 ```
 
-## Step 6.b: Run the TransTM tracker attacked by ABBG for GOT10k evaluation
+## Step 6.b: Run the TransTM tracker attacked by ABBG
 1- Download the GOT10k dataset (http://got-10k.aitestunion.com/downloads) and set the dataset path in TransT_M/pysot_toolkit/test_ABBG.py.
 
 2- Activate the TransTM environment. 
