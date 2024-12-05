@@ -1,5 +1,6 @@
-# ABBG Attack against Visual Object Trackers
-NeurIPS 2024 in AdvML Workshop
+# ABBG Attack
+[NeurIPS 2024 in AdvML Workshop] Adversarial Bounding Boxes Generation (ABBG) Attack against Visual Object Trackers
+
 
 [OpenReview] coming soon!
 
