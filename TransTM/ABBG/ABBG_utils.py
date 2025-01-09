@@ -220,7 +220,7 @@ def rect_2_cxy_wh(rect):
 def ABBG_attack(net, img, temp_list, mask_flag, center_pos, s_x, image_sh, window, window_penalty,
                  epsilon_ = 10, alpha_= 1, max_t=10):  
     """
-    ABBG attack for MixFormer tracker
+    ABBG attack for TransTM tracker
     Args:
         net: tracker network
         img: Current frame
