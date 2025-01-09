@@ -177,7 +177,7 @@ class Preprocessor_wo_mask(object):
 
 def ABBG_attack(net, prev_box, img, resize_factor, search_size, temp, epsilon_ = 10, alpha_= 1, max_t=10):  
     """
-    ABBG attack for MixFormer tracker
+    ABBG attack for ROMTrack tracker
     Args:
         net: tracker network
         prev_box: previous bounding box
